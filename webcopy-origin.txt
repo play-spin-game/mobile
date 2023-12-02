@@ -1,0 +1,308 @@
+Uri: https://assets.clickfunnels.com/images/grey-lock.png
+File Name: C:\Downloaded Web Sites\www.rahulbari.com\images\grey-lock.png
+Content Type: image/png
+
+Uri: https://assets.clickfunnels.com/images/seal1.png
+File Name: C:\Downloaded Web Sites\www.rahulbari.com\images\seal1.png
+Content Type: image/png
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:400,700|Oswald:400,700|Droid+Sans:400,700|Roboto:400,700|Lato:400,700|PT+Sans:400,700|Source+Sans+Pro:400,600,700|Noto+Sans:400,700|PT+Sans:400,700|Ubuntu:400,700|Bitter:400,700|PT+Serif:400,700|Rokkitt:400,700|Droid+Serif:400,700|Raleway:400,700|Inconsolata:400,700
+File Name: C:\Downloaded Web Sites\www.rahulbari.com\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=sans-serif|Open+Sans|sans-serif|Open+Sans|sans-serif|Open+Sans|sans-serif|Open+Sans|sans-serif|Open+Sans|sans-serif|Open+Sans|sans-serif|Open+Sans|sans-serif|Open+Sans|sans-serif|Open+Sans|sans-serif|Open+Sans|sans-serif|Open+Sans|sans-serif|Open+Sans|sans-serif|Open+Sans|sans-serif|Open+Sans|sans-serif|Open+Sans|sans-serif|Open+Sans|sans-serif|Open+Sans|sans-serif|Open+Sans|sans-serif|Open+Sans|sans-serif|Open+Sans||
+File Name: C:\Downloaded Web Sites\www.rahulbari.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/bitter/v33/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8fbfOLjOWA.ttf
+File Name: C:\Downloaded Web Sites\www.rahulbari.com\s\bitter\v33\raxhHiqOu8IVPmnRc6SY1KXhnF_Y8fbfOLjOWA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bitter/v33/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8RHYOLjOWA.ttf
+File Name: C:\Downloaded Web Sites\www.rahulbari.com\s\bitter\v33\raxhHiqOu8IVPmnRc6SY1KXhnF_Y8RHYOLjOWA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/droidsans/v18/SlGVmQWMvZQIdix7AFxXkHNSaA.ttf
+File Name: C:\Downloaded Web Sites\www.rahulbari.com\s\droidsans\v18\SlGVmQWMvZQIdix7AFxXkHNSaA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/droidsans/v18/SlGWmQWMvZQIdix7AFxXmMh3eDs1Yg.ttf
+File Name: C:\Downloaded Web Sites\www.rahulbari.com\s\droidsans\v18\SlGWmQWMvZQIdix7AFxXmMh3eDs1Yg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/droidserif/v19/tDbI2oqRg1oM3QBjjcaDkOr9rAA.ttf
+File Name: C:\Downloaded Web Sites\www.rahulbari.com\s\droidserif\v19\tDbI2oqRg1oM3QBjjcaDkOr9rAA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/droidserif/v19/tDbV2oqRg1oM3QBjjcaDkOJGiRD7OwQ.ttf
+File Name: C:\Downloaded Web Sites\www.rahulbari.com\s\droidserif\v19\tDbV2oqRg1oM3QBjjcaDkOJGiRD7OwQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inconsolata/v32/QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7Lpp2I7WR32kg.ttf
+File Name: C:\Downloaded Web Sites\www.rahulbari.com\s\inconsolata\v32\QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7Lpp2I7WR32kg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inconsolata/v32/QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7Lpp4U8WR32kg.ttf
+File Name: C:\Downloaded Web Sites\www.rahulbari.com\s\inconsolata\v32\QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7Lpp4U8WR32kg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh6UVSwiPHA.ttf
+File Name: C:\Downloaded Web Sites\www.rahulbari.com\s\lato\v24\S6u9w4BMUTPHh6UVSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjx4wWw.ttf
+File Name: C:\Downloaded Web Sites\www.rahulbari.com\s\lato\v24\S6uyw4BMUTPHjx4wWw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/notosans/v35/o-0mIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyAaBO9a6Vc.ttf
+File Name: C:\Downloaded Web Sites\www.rahulbari.com\s\notosans\v35\o-0mIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyAaBO9a6Vc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/notosans/v35/o-0mIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyD9A-9a6Vc.ttf
+File Name: C:\Downloaded Web Sites\www.rahulbari.com\s\notosans\v35\o-0mIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyD9A-9a6Vc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v36/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\www.rahulbari.com\s\opensans\v36\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v36/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\www.rahulbari.com\s\opensans\v36\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v53/TK3_WkUHHAIjg75cFRf3bXL8LICs1xZosUZiYA.ttf
+File Name: C:\Downloaded Web Sites\www.rahulbari.com\s\oswald\v53\TK3_WkUHHAIjg75cFRf3bXL8LICs1xZosUZiYA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v53/TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvsUZiYA.ttf
+File Name: C:\Downloaded Web Sites\www.rahulbari.com\s\oswald\v53\TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvsUZiYA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ptsans/v17/jizaRExUiTo99u79D0KEwA.ttf
+File Name: C:\Downloaded Web Sites\www.rahulbari.com\s\ptsans\v17\jizaRExUiTo99u79D0KEwA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ptsans/v17/jizfRExUiTo99u79B_mh0O6tKA.ttf
+File Name: C:\Downloaded Web Sites\www.rahulbari.com\s\ptsans\v17\jizfRExUiTo99u79B_mh0O6tKA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ptserif/v18/EJRSQgYoZZY2vCFuvAnt66qSVy4.ttf
+File Name: C:\Downloaded Web Sites\www.rahulbari.com\s\ptserif\v18\EJRSQgYoZZY2vCFuvAnt66qSVy4.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ptserif/v18/EJRVQgYoZZY2vCFuvAFWzro.ttf
+File Name: C:\Downloaded Web Sites\www.rahulbari.com\s\ptserif\v18\EJRVQgYoZZY2vCFuvAFWzro.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v29/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pbCIPrQ.ttf
+File Name: C:\Downloaded Web Sites\www.rahulbari.com\s\raleway\v29\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pbCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v29/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrQ.ttf
+File Name: C:\Downloaded Web Sites\www.rahulbari.com\s\raleway\v29\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\www.rahulbari.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\www.rahulbari.com\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rokkitt/v36/qFdb35qfgYFjGy5hukqqhw5XeRgdi1oVcKDMGbo.ttf
+File Name: C:\Downloaded Web Sites\www.rahulbari.com\s\rokkitt\v36\qFdb35qfgYFjGy5hukqqhw5XeRgdi1oVcKDMGbo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rokkitt/v36/qFdb35qfgYFjGy5hukqqhw5XeRgdi1ryd6DMGbo.ttf
+File Name: C:\Downloaded Web Sites\www.rahulbari.com\s\rokkitt\v36\qFdb35qfgYFjGy5hukqqhw5XeRgdi1ryd6DMGbo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v22/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7g.ttf
+File Name: C:\Downloaded Web Sites\www.rahulbari.com\s\sourcesanspro\v22\6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7g.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwlxdr.ttf
+File Name: C:\Downloaded Web Sites\www.rahulbari.com\s\sourcesanspro\v22\6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwlxdr.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwlxdr.ttf
+File Name: C:\Downloaded Web Sites\www.rahulbari.com\s\sourcesanspro\v22\6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwlxdr.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v20/4iCs6KVjbNBYlgoKfw7z.ttf
+File Name: C:\Downloaded Web Sites\www.rahulbari.com\s\ubuntu\v20\4iCs6KVjbNBYlgoKfw7z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v20/4iCv6KVjbNBYlgoCxCvjsGyI.ttf
+File Name: C:\Downloaded Web Sites\www.rahulbari.com\s\ubuntu\v20\4iCv6KVjbNBYlgoCxCvjsGyI.ttf
+Content Type: font/ttf
+
+Uri: https://static.cloudflareinsights.com/beacon.min.js/v84a3a4012de94ce1a686ba8c167c359c1696973893317
+File Name: C:\Downloaded Web Sites\www.rahulbari.com\beacon.min.js\v84a3a4012de94ce1a686ba8c167c359c1696973893317
+Content Type: text/javascript
+
+Uri: https://use.fontawesome.com/releases/v5.9.0/css/all.css
+File Name: C:\Downloaded Web Sites\www.rahulbari.com\releases\v5.9.0\css\all.css
+Content Type: text/css
+
+Uri: https://use.fontawesome.com/releases/v5.9.0/css/v4-shims.css
+File Name: C:\Downloaded Web Sites\www.rahulbari.com\releases\v5.9.0\css\v4-shims.css
+Content Type: text/css
+
+Uri: https://use.fontawesome.com/releases/v5.9.0/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\www.rahulbari.com\releases\v5.9.0\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.9.0/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\www.rahulbari.com\releases\v5.9.0\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.9.0/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\www.rahulbari.com\releases\v5.9.0\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.9.0/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\www.rahulbari.com\releases\v5.9.0\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.9.0/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\www.rahulbari.com\releases\v5.9.0\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.9.0/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\www.rahulbari.com\releases\v5.9.0\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.9.0/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\www.rahulbari.com\releases\v5.9.0\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.9.0/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\www.rahulbari.com\releases\v5.9.0\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.9.0/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\www.rahulbari.com\releases\v5.9.0\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.9.0/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\www.rahulbari.com\releases\v5.9.0\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.9.0/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\www.rahulbari.com\releases\v5.9.0\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.9.0/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\www.rahulbari.com\releases\v5.9.0\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.9.0/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\www.rahulbari.com\releases\v5.9.0\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.9.0/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\www.rahulbari.com\releases\v5.9.0\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.9.0/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\www.rahulbari.com\releases\v5.9.0\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.9.0/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\www.rahulbari.com\releases\v5.9.0\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.9.0/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\www.rahulbari.com\releases\v5.9.0\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.9.0/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\www.rahulbari.com\releases\v5.9.0\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://www.facebook.com/tr?id=1138346203487379&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\www.rahulbari.com\tr-3
+Content Type: text/plain
+
+Uri: https://www.facebook.com/tr?id=1233159364081227&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\www.rahulbari.com\tr-2
+Content Type: text/plain
+
+Uri: https://www.facebook.com/tr?id=476994004598427&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\www.rahulbari.com\tr
+Content Type: text/plain
+
+Uri: https://www.facebook.com/tr?id=545454574151708&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\www.rahulbari.com\tr-1
+Content Type: text/plain
+
+Uri: https://www.googletagmanager.com/gtag/js?id=AW-649140567
+File Name: C:\Downloaded Web Sites\www.rahulbari.com\gtag\js
+Content Type: application/javascript
+
+Uri: https://www.rahulbari.com/assets/lander.css
+File Name: C:\Downloaded Web Sites\www.rahulbari.com\assets\lander.css
+Content Type: text/css
+
+Uri: https://www.rahulbari.com/assets/lander.js
+File Name: C:\Downloaded Web Sites\www.rahulbari.com\assets\lander.js
+Content Type: application/x-javascript
+
+Uri: https://www.rahulbari.com/assets/pushcrew.js
+File Name: C:\Downloaded Web Sites\www.rahulbari.com\assets\pushcrew.js
+Content Type: application/x-javascript
+
+Uri: https://www.rahulbari.com/assets/userevents/application.js
+File Name: C:\Downloaded Web Sites\www.rahulbari.com\assets\userevents\application.js
+Content Type: application/x-javascript
+
+Uri: https://www.rahulbari.com/hosted/images/0a/4bdf9e6f644058b7cc8bdfd4a0e1a3/Test1.jpg
+File Name: C:\Downloaded Web Sites\www.rahulbari.com\hosted\images\0a\4bdf9e6f644058b7cc8bdfd4a0e1a3\Test1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.rahulbari.com/hosted/images/12/030e346ce740b594a7466670382345/five-stars-f0b166709cc63074837d5f77bb87071d-pr50cofpg0c0eseav3vx5by7gmqnukyffew7t2yeic.png
+File Name: C:\Downloaded Web Sites\www.rahulbari.com\hosted\images\12\030e346ce740b594a7466670382345\five-stars-f0b166709cc63074837d5f77bb87071d-pr50cofpg0c0eseav3vx5by7gmqnukyffew7t2yeic.png
+Content Type: image/png
+
+Uri: https://www.rahulbari.com/hosted/images/57/13f35a7a30404096fdbed9629746fd/Test2.jpg
+File Name: C:\Downloaded Web Sites\www.rahulbari.com\hosted\images\57\13f35a7a30404096fdbed9629746fd\Test2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.rahulbari.com/hosted/images/82/cf7e2926534282a5ff05623e548e61/bari-cta-Min.png
+File Name: C:\Downloaded Web Sites\www.rahulbari.com\hosted\images\82\cf7e2926534282a5ff05623e548e61\bari-cta-Min.png
+Content Type: image/png
+
+Uri: https://www.rahulbari.com/hosted/images/a8/3ef6a62663493c9f4517fbcdd3f948/Test5.jpg
+File Name: C:\Downloaded Web Sites\www.rahulbari.com\hosted\images\a8\3ef6a62663493c9f4517fbcdd3f948\Test5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.rahulbari.com/hosted/images/b5/fc99a8edd0440bbdb7100542fe9e01/Test3.jpg
+File Name: C:\Downloaded Web Sites\www.rahulbari.com\hosted\images\b5\fc99a8edd0440bbdb7100542fe9e01\Test3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.rahulbari.com/hosted/images/d8/c2219e41ef4f8894a564f6e684227d/Mobile-Edit-Gif.gif
+File Name: C:\Downloaded Web Sites\www.rahulbari.com\hosted\images\d8\c2219e41ef4f8894a564f6e684227d\Mobile-Edit-Gif.gif
+Content Type: image/gif
+
+Uri: https://www.rahulbari.com/hosted/images/da/953a651fc643ca8054d404ad12c5ef/Bacground-m.jpg
+File Name: C:\Downloaded Web Sites\www.rahulbari.com\hosted\images\da\953a651fc643ca8054d404ad12c5ef\Bacground-m.jpg
+Content Type: image/jpeg
+
+Uri: https://www.rahulbari.com/hosted/images/e1/868c31cde14e9f8f43a35dda3d2ea8/Test4.png
+File Name: C:\Downloaded Web Sites\www.rahulbari.com\hosted\images\e1\868c31cde14e9f8f43a35dda3d2ea8\Test4.png
+Content Type: image/png
+
+Uri: https://www.rahulbari.com/hosted/images/f4/3a3879f9a54a5d8d43bd4bc035b14e/Mobile-Edit-Headline-copy.png
+File Name: C:\Downloaded Web Sites\www.rahulbari.com\hosted\images\f4\3a3879f9a54a5d8d43bd4bc035b14e\Mobile-Edit-Headline-copy.png
+Content Type: image/png
+
+Uri: https://www.rahulbari.com/images/closemodal.png
+File Name: C:\Downloaded Web Sites\www.rahulbari.com\images\closemodal.png
+Content Type: image/png
+
+Uri: https://www.rahulbari.com/me
+File Name: C:\Downloaded Web Sites\www.rahulbari.com\me.html
+Content Type: text/html
+
